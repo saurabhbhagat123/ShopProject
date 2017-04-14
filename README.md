@@ -52,4 +52,4 @@ Response:Returns the nearest shop based on lattitude and longitude of customer p
 "longitude": "73.9271644"
 }
 
-
+Note:You must be connected to internet for Google api to work.
